@@ -11,9 +11,9 @@ Sample Leaderboards:
 - [CSGO](https://pro.eslgaming.com/worldranking/csgo/rankings/)
 
 
-League Esports Page:
+League Esports Page:\
 [lolesports](https://lolesports.com/standings/lcs/lcs_summer_2023/regular_season)
 
 
-[Technical Doc](https://docs.google.com/document/d/1wFRehKMJkkRR5zyjEZyaVL9H3ZbhP7_wP0FBE5ID40c/edit?usp=sharing)
-[API Guidelines](https://docs.google.com/document/d/1Klodp4YqE6bIOES026ecmNb_jS5IOntRqLv5EmDAXyc/edit?usp=sharing)
+- [Technical Doc](https://docs.google.com/document/d/1wFRehKMJkkRR5zyjEZyaVL9H3ZbhP7_wP0FBE5ID40c/edit?usp=sharing)
+- [API Guidelines](https://docs.google.com/document/d/1Klodp4YqE6bIOES026ecmNb_jS5IOntRqLv5EmDAXyc/edit?usp=sharing)
