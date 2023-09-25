@@ -4,11 +4,11 @@ type SOMEJSONFILE.json | py -m json.tool > pretty.json
 
 
 Sample Leaderboards:
-[FIFA](https://www.fifa.com/fifa-world-ranking/men?dateId=id14142)
-[Tennis](https://www.espn.com/tennis/rankings)
-[Dota 2](https://ggscore.com/en/dota-2/team)
-[Google Play](https://www.exophase.com/android/leaderboard/)
-[CSGO](https://pro.eslgaming.com/worldranking/csgo/rankings/)
+- [FIFA](https://www.fifa.com/fifa-world-ranking/men?dateId=id14142)
+- [Tennis](https://www.espn.com/tennis/rankings)
+- [Dota 2](https://ggscore.com/en/dota-2/team)
+- [Google Play](https://www.exophase.com/android/leaderboard/)
+- [CSGO](https://pro.eslgaming.com/worldranking/csgo/rankings/)
 
 
 League Esports Page:
